@@ -11,3 +11,5 @@
 [EasyX 下载](https://easyx.cn/t/download)
 
 ![001](./img/001.png)
+
+[EasyX 文档](https://docs.easyx.cn/zh-cn/intro)
