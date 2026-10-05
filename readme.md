@@ -10,4 +10,4 @@
 
 [EasyX 下载](https://easyx.cn/t/download)
 
-![001](D:\LianXi\C++\Game\PingPong001\img\001.png)
+![001](./img/001.png)
